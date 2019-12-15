@@ -1,0 +1,10 @@
+@mixin container($max-width)
+    margin: 0 auto
+    width: 90%
+    max-width: $max-width
+
+.container 
+    @include container(1300px)
+
+.xsm-container
+    @include container(800px)

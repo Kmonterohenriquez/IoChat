@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACKA,AAAA,UAAU,CAAC;EAJP,MAAM,EAAE,MAAM;EACd,KAAK,EAAE,GAAG;EACV,SAAS,EAGU,MAAM;CAAI;;AAEjC,AAAA,cAAc,CAAC;EAPX,MAAM,EAAE,MAAM;EACd,KAAK,EAAE,GAAG;EACV,SAAS,EAMU,KAAK;CAAI",
+    "sources": [
+        "App.sass",
+        "Styles/containers.sass",
+        "Styles/Colors.sass"
+    ],
+    "names": [],
+    "file": "App.css"
+}
